@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xplicity.Academy.EntranceExam.Tasks", "Xplicity.Academy.EntranceExam.Tasks\Xplicity.Academy.EntranceExam.Tasks.csproj", "{B3C7AD88-912B-4131-B0BB-031BEC753617}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xplicity.Academy.EntranceExam.Tests", "Xplicity.Academy.EntranceExam.Tests\Xplicity.Academy.EntranceExam.Tests.csproj", "{C1C8DF36-3462-4040-94AF-ECAB99F85173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C7AD88-912B-4131-B0BB-031BEC753617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C7AD88-912B-4131-B0BB-031BEC753617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C7AD88-912B-4131-B0BB-031BEC753617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C7AD88-912B-4131-B0BB-031BEC753617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C8DF36-3462-4040-94AF-ECAB99F85173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C8DF36-3462-4040-94AF-ECAB99F85173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C8DF36-3462-4040-94AF-ECAB99F85173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C8DF36-3462-4040-94AF-ECAB99F85173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {404EF8FB-BD47-49EB-8554-15B8F52DAFE9}
+	EndGlobalSection
+EndGlobal
